@@ -1,8 +1,11 @@
+import { useState } from "react";
 import { Button } from "@/components/ui/button";
 
 function App() {
-  function handleBuy() {
-    alert("Bienvenido a CineSpoilerS 🎬");
+  const [tickets, setTickets] = useState(1);
+
+  function aumentarTicket() {
+    setTickets(tickets + 1);
   }
 
   return (
@@ -16,8 +19,12 @@ function App() {
         Compra tickets de cine fácilmente
       </p>
 
-      <Button onClick={handleBuy}>
-        Comprar ticket 🎟️
+      <h2 className="text-4xl">
+        🎟️ {tickets}
+      </h2>
+
+      <Button onClick={aumentarTicket}>
+        Comprar ticket
       </Button>
 
     </main>
