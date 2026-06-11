@@ -46,3 +46,27 @@ Capturas del avance del proyecto CineSpoilerS.
 ### Evidencia 03
 
 ![Evidencia 03](./docs/ale/evidencia3.png)
+
+## Sheyla Chuco Bravo
+
+
+### Evidencia 01
+
+![Evidencia 01](./docs/sheyla/eviden1.png)
+
+---
+
+### Evidencia 02
+
+![Evidencia 02](./docs/sheyla/eviden2.png)
+
+---
+
+### Evidencia 03
+
+![Evidencia 03](./docs/sheyla/evidencia03.png)
+
+
+### Evidencia 04
+
+![Evidencia 03](./docs/sheyla/evidenci004.png)
